@@ -1,6 +1,7 @@
 database:
   user: jorge
-  password: 123
+  password: 112233445566
 server:
-  port: 8080
+  port: 8081
 host: http://localhost/
+email: "jorge.gregorio@fatec.sp.gov.br"
