@@ -19,3 +19,8 @@ div#container h1 {
     text-align: justify;
     text-indent: 4rem;
 }
+
+img.logo{
+    width: 64px;
+    border-radius: 50%;
+}
