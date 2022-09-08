@@ -9,3 +9,13 @@ div#container h1 {
     color: blue;
     text-align: center;
 }
+
+.title{
+    text-align: center;
+    color: darkblue;
+}
+
+.text{
+    text-align: justify;
+    text-indent: 4rem;
+}
